@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.name = %q{bootstrap-daterangepicker-rails}
   s.version = Bootstrap::Daterangepicker::Rails::VERSION
   s.platform = Gem::Platform::RUBY
-  s.authors = ["Dan Grossman", "Jordan Brock"]
+  s.authors = ["Dan Grossman", "Jordan Brock", "Maciej Kowalski"]
   s.email = %q{jordan@brock.id.au}
   s.homepage = %q{http://github.com/jordanbrock/bootstrap-daterangepicker-rails}
   s.summary = %q{Rails 3.2.x plugin to allow for the easy use of Dan Grossman's Bootstrap DateRangePicker}
