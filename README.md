@@ -1,6 +1,6 @@
 # Date Range Picker for Twitter Bootstrap
 
-_Description from DateRangePicker for Twitter Bootstrap_
+_Description from [DateRangePicker](https://github.com/dangrossman/bootstrap-daterangepicker) for Twitter Bootstrap_
 
 This date range picker component for Twitter Bootstrap creates a dropdown menu from which a user can 
 select a range of dates. It was created for the reporting UI at [Improvely](http://www.improvely.com).
