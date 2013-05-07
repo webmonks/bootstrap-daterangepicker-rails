@@ -15,7 +15,7 @@ into the text box. Otherwise, you can provide a custom callback function to rece
 ## Usage
 
 This component relies on [Twitter Bootstrap](http://twitter.github.com/bootstrap/), 
-[Datejs](http://www.datejs.com/) and [jQuery](http://jquery.com/).
+[Moment.js](http://momentjs.com/) and [jQuery](http://jquery.com/).
 
 Basic usage:
 
@@ -29,7 +29,7 @@ gem 'coffee-rails'
 
 # application.js
 
-//= require date
+//= require moment
 //= require daterangepicker
 
 
